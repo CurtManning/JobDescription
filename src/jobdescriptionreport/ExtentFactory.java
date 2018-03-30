@@ -10,7 +10,7 @@ public class ExtentFactory {
 		extent
 	     .addSystemInfo("Selenium Version", "3.53")
 	     .addSystemInfo("Platform", "Windows");
-
+ 
 		return extent;
 	}
 }
