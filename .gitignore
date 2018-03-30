@@ -1,3 +1,8 @@
+bin
+test-output
+.classpath
+.project
+.settings
 # Compiled class file
 *.class
 
